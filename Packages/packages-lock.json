@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.mckoleman.charkole_gameservice": {
+      "version": "https://github.com/MCKoleman/CHARKOLE_GameService.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "134d3b2350fa1e0a06788ede66be0bdcdd8a5cdd"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
